@@ -9,8 +9,8 @@ from urllib.parse import urlencode
 import requests
 
 
-client_id = '5607d40949a34a7991c950712b2cf9f2'
-client_secret = 'd3fee3e175f64f88a94f949c74af72f0'
+client_id = '###############################'
+client_secret = '###############################'
 
 class SpotifyAPI(object):
     access_token = None
